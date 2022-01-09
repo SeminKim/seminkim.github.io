@@ -4,7 +4,7 @@ highlighter:      rouge
 
 # Setup
 title:            My Blog
-tagline:          'A Jekyll theme'
+# tagline:          ''
 description:      '대충 이것저것 끄적이는 곳'
 url:              https://seminkim.github.io
 # baseurl:          '/blog'
