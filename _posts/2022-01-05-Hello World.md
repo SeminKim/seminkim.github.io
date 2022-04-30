@@ -2,7 +2,7 @@
 layout: post
 title:  "Hello World!"
 date:   2022-01-05 23:11:25 +0900
-categories: Meta
+categories: Life
 ---
 ```
 Hello World!
