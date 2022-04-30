@@ -1,8 +1,13 @@
-# Released under MIT License
+Blog theme(Hydeout) is not mine and is under MIT License; all other contents are created by myself and is also under MIT License.
 
+### Hydeout
 Copyright (c) 2013 Mark Otto.
-
 Copyright (c) 2017 Andrew Fong.
+
+### Other Blog Contents
+Copyright (c) 2022 Semin Kim.
+
+## MIT License
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 

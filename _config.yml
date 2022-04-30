@@ -6,9 +6,9 @@ excerpt_separator: "\n\n"
 incremental: false
 
 # Setup
-title:            My Blog
+title:            Think Before Code
 # tagline:          ''
-description:      '대충 이것저것 끄적이는 곳'
+description:      '코딩은 손 말고 머리로'
 url:              https://seminkim.github.io
 # baseurl:          '/blog'
                   # the optional subpath of your site, e.g. "/blog"
