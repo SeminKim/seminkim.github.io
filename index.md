@@ -15,7 +15,7 @@ redirect_from:
   - /download/
 --- -->
 
-I am **Semin Kim**, a master student at KAIST. Currently I am a member of [**vllab**](https://vllab.kaist.ac.kr), advised by **Prof. Seunghoon Hong**. As an researcher, I am interested in general topics in computer vision, including generative models and implicit neural representations.
+I am **Semin Kim**, a master student at KAIST. Currently I am a member of [**vllab**](https://vllab.kaist.ac.kr), advised by **Prof. Seunghoon Hong**. As an researcher, I am interested in broad topics in computer vision and machine learning, including generative models and implicit neural representations.
 
 
-For more information, please check my [**CV**](/404).
+For more information, please check my [**CV**](/cv).
