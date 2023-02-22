@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://seminkim.github.io/sitemap.xml
