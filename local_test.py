@@ -6,7 +6,7 @@ def test_local():
     shutil.copyfile('_config.yml', '_config_local.yml')
     with open('_config_local.yml', 'a') as file:
         file.write("theme: jekyll-theme-hydejack")
-    os.system('bundle exec jekyll serve --config _config_local.yml')
+    os.system('bundle exec jekyll serve --config _config_local.yml --incremental')
 
 
 if __name__ == '__main__':
