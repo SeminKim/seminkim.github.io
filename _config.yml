@@ -29,7 +29,7 @@ description:           >
   with a focus on personal sites that are meant to impress.
 
 # A shorter description for the sidebar.
-tagline:               Ph.D student @ vllab KAIST
+tagline:               Ph.D. student @ vllab KAIST
 
 # A list of keywords for your blog
 keywords:              []
@@ -53,7 +53,7 @@ menu:
   #   url:               /example/
   # - title:             Documentation
   #   url:               /docs/
-  - title:             Home
+  - title:             About Me
     url:               /
   # - title:             About
   #   url:               /about/
@@ -342,7 +342,7 @@ plugins:
 # ---------------------------------------------------------------------------------------
 
 # Where you proof that you own this site (used by jekyll-seo-tag)
-# google_site_verification: <verification-id>
+google_site_verification: jhV4Cmxp_esYqBUyjcKmGBG1kFjoVwb3ZyF4wJMYmP0
 # -- or --
 # webmaster_verifications:
 #   google:              <verification-id>

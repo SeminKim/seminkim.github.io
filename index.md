@@ -1,6 +1,6 @@
 ---
 layout: about
-title:  Hi there!
+title:  About Me
 cover:  true
 ---
 
@@ -15,7 +15,7 @@ redirect_from:
   - /download/
 --- -->
 
-I am **Semin Kim**, a Ph.D student at KAIST and a member of [**Vision and Learning Laboratory**](https://vllab.kaist.ac.kr), advised by **Prof. Seunghoon Hong**. 
-My research interests span a broad range of topics in computer vision and machine learning, including generative models, implicit layers, and inference-time scaling methods.
+I am **Semin Kim**, a Ph.D. student at KAIST and a member of [**Vision and Learning Laboratory**](https://vllab.kaist.ac.kr), advised by **Prof. Seunghoon Hong**. 
+My research interests span a broad range of topics in computer vision and machine learning, including generative models, model alignment, and inference-time scaling methods.
 
 For more information, please check my [**CV**](/cv).
